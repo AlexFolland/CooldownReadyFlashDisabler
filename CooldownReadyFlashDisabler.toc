@@ -1,0 +1,4 @@
+## Interface: 60200
+## Title: CooldownReadyFlashDisabler
+## Notes: Universally disables the "bling" flash animations on action buttons whenever cooldowns become ready
+CooldownReadyFlashDisabler.lua
