@@ -1,4 +1,10 @@
-## Interface: 80000
+## Interface: 90100
+## Interface-Retail: 90100
+## Interface-Classic: 11307
+## Interface-BCC: 20501
 ## Title: CooldownReadyFlashDisabler
 ## Notes: Universally disables the "bling" flash animations on action buttons whenever cooldowns become ready
+
 CooldownReadyFlashDisabler.lua
+
+## X-Curse-Project-ID: 94999
